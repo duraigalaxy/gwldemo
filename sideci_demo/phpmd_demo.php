@@ -9,7 +9,7 @@ class Repository
     private $public;
     private $branches;
 
-    const PublicVisibility = 'public';
+    const $PublicVisibility = 'public';
 
     /**
      * @param string $owner
