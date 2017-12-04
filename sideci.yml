@@ -1,4 +1,6 @@
 linter:
+target:
+      - index.php
   rubocop:
     root_dir: 'sideci_demo'
 
